@@ -72,16 +72,6 @@ A **multi-page responsive healthcare website** with clean architecture and modul
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nikhilkushwaha9899&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | 🥇 Achievement | 📋 Details |
