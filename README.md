@@ -3,7 +3,7 @@
 # 👾 NIKHIL KUSHWAHA
 ### `< Frontend Developer in the Making />` · CS Undergrad @ ABES Engineering College
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Interfaces+That+Matter+%F0%9F%9A%80;Frontend+Dev+%7C+Problem+Solver+%7C+Lifelong+Learner;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Interfaces+That+Matter+%F0%9F%9A%80;Frontend+Dev+%7C+Problem+Solver+%7C+Lifelong+Learner;HTML+%E2%80%A2+CSS+%E2%80%A2+JS+%E2%80%A2+Java+%E2%80%A2+Python)](https://git.io/typing-svg)
 
 </div>
 
