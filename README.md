@@ -76,10 +76,6 @@ A **multi-page responsive healthcare website** with clean architecture and modul
 
 <div align="center">
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilkushwaha9899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkushwaha9899&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nikhilkushwaha9899&theme=tokyonight&hide_border=true)
 
 </div>
