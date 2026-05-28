@@ -103,8 +103,6 @@ A **multi-page responsive healthcare website** with clean architecture and modul
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Nikhilkushwaha9899&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**⭐ Drop a star on something you like — it means the world!**
-
 *"The best interfaces are the ones users never have to think about."*
 
 </div>
