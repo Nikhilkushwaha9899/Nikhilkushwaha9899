@@ -62,7 +62,7 @@ A **rule-based mental health support chatbot** built to provide crisis-specific 
 ---
 
 ### 🏥 [MediClub – Hospital Website](https://github.com/Nikhilkushwaha9899)
-> *HTML · CSS · JavaScript* &nbsp;|&nbsp; 🗓️ Feb 2026 – Present
+> *HTML · CSS · JavaScript* &nbsp;|&nbsp; 🗓️ Feb 2026 – Jun 2026
 
 A **multi-page responsive healthcare website** with clean architecture and modular components.
 
