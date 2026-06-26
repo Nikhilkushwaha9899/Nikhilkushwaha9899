@@ -79,6 +79,7 @@ A **multi-page responsive healthcare website** with clean architecture and modul
 | ☁️ AWS Academy Cloud Architecting | Amazon Web Services Certified |
 | ☁️ AWS Academy Cloud Foundations | Amazon Web Services Certified |
 | 💻 TCS CodeVita Season 13 | **Global Rank 8360** |
+| 💻 TCS iON | Generative AI Certified |
 | 🤖 AI Impact – GUVI × HCL | Hackathon Participant & Certified |
 | ⚡ SynergiX Buildathon | Participant & Certified |
 | 🌐 HTML, CSS & JavaScript | CISCO Networking Academy Certified |
